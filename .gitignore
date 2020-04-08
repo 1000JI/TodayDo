@@ -6,6 +6,10 @@
 allViewUsed.swift
 RealmModel.swift
 *.png
+png파일모음
+*.key
+*.otf
+*.lock
 
 ### macOS ###
 # General
