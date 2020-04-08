@@ -1,0 +1,104 @@
+PODS:
+  - Alamofire (5.0.5)
+  - DynamicColor (4.2.0)
+  - FSCalendar (2.8.1)
+  - Google-Mobile-Ads-SDK (7.57.0):
+    - GoogleAppMeasurement (~> 6.0)
+  - GoogleAppMeasurement (6.4.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.0)
+    - GoogleUtilities/MethodSwizzler (~> 6.0)
+    - GoogleUtilities/Network (~> 6.0)
+    - "GoogleUtilities/NSData+zlib (~> 6.0)"
+    - nanopb (= 0.3.9011)
+  - GoogleUtilities/AppDelegateSwizzler (6.5.2):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (6.5.2)
+  - GoogleUtilities/Logger (6.5.2):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (6.5.2):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (6.5.2):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (6.5.2)"
+  - GoogleUtilities/Reachability (6.5.2):
+    - GoogleUtilities/Logger
+  - IQKeyboardManagerSwift (6.5.5)
+  - JJFloatingActionButton (2.4.0)
+  - nanopb (0.3.9011):
+    - nanopb/decode (= 0.3.9011)
+    - nanopb/encode (= 0.3.9011)
+  - nanopb/decode (0.3.9011)
+  - nanopb/encode (0.3.9011)
+  - PryntTrimmerView (4.0.0)
+  - Realm (4.4.0):
+    - Realm/Headers (= 4.4.0)
+  - Realm/Headers (4.4.0)
+  - RealmSwift (4.4.0):
+    - Realm (= 4.4.0)
+  - SideMenu (6.4.8)
+  - SnapKit (5.0.1)
+  - SteviaLayout (4.7.3)
+  - SwiftyJSON (5.0.0)
+  - YPImagePicker (4.2.0):
+    - PryntTrimmerView (~> 4.0.0)
+    - SteviaLayout (~> 4.7.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - DynamicColor (~> 4.2.0)
+  - FSCalendar
+  - Google-Mobile-Ads-SDK
+  - IQKeyboardManagerSwift
+  - JJFloatingActionButton
+  - RealmSwift
+  - SideMenu (~> 6.0)
+  - SnapKit (~> 5.0.0)
+  - SwiftyJSON
+  - YPImagePicker
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DynamicColor
+    - FSCalendar
+    - Google-Mobile-Ads-SDK
+    - GoogleAppMeasurement
+    - GoogleUtilities
+    - IQKeyboardManagerSwift
+    - JJFloatingActionButton
+    - nanopb
+    - PryntTrimmerView
+    - Realm
+    - RealmSwift
+    - SideMenu
+    - SnapKit
+    - SteviaLayout
+    - SwiftyJSON
+    - YPImagePicker
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  DynamicColor: c475f66bda1cabf602f2c54ac1171c0c07148a5a
+  FSCalendar: 5245140456fcbcac5824c203b98bd8068bdfee1a
+  Google-Mobile-Ads-SDK: ec897018b9ab9b447e7aa4876e7f75aba13ba2de
+  GoogleAppMeasurement: 6e68a94d0eaeb1d73ef6b0ed4f7334e29d63ae29
+  GoogleUtilities: ad0f3b691c67909d03a3327cc205222ab8f42e0e
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  JJFloatingActionButton: 0d21f5cdd2adde150e62c22c63762ab713c4e16f
+  nanopb: 18003b5e52dab79db540fe93fe9579f399bd1ccd
+  PryntTrimmerView: 67e67573ffd4c073f1308effa66aefd0cfa667a0
+  Realm: e125f464884cda953ebefe70c671b75b03b81b9b
+  RealmSwift: 33656a42bd300959a081fc13347376bc478071af
+  SideMenu: 4a891be552d30bb6fa87ad404d62e485f8450c34
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SteviaLayout: c2ecdcff57d44e38fd2f65e54ad52aeae28ca0c4
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  YPImagePicker: accf310f9526641a84372c0ecf943547d9b1e52c
+
+PODFILE CHECKSUM: c98a007f9647fe5acd0db344765104130ac8529d
+
+COCOAPODS: 1.9.1
